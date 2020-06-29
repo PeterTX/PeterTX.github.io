@@ -11,3 +11,4 @@ Der Hulk ist der Protagonist der gleichnamigen Marvel-Comics von Stan Lee und Ja
 * haut gerne mal einen mickrigen Gott (Loki)
 Hulk über Loki:
 > Mickriger Gott!
+<img src="https://cdn.pixabay.com/photo/2014/12/23/07/40/hulk-578088_960_720.jpg"/>
