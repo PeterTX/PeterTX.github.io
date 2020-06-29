@@ -9,3 +9,5 @@ Der Hulk ist der Protagonist der gleichnamigen Marvel-Comics von Stan Lee und Ja
 * imho mit Mark Ruffalo als bestem Darsteller
 * Mitglied der Avengers
 * haut gerne mal einen mickrigen Gott (Loki)
+Hulk über Loki:
+> Mickriger Gott!
